@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**chandantaluja/chandantaluja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on MicroChip ATmega328PB.
+- 🌱 I’m currently learning Embedded C.
+- 👯 I’m looking to collaborate on anything that created Magic
+- 🤔 I’m looking for help with writing low size and efficent codes.
+- 💬 Ask me about anything that bothers you.
+- 📫 How to reach me: 
+-                     :email: chandan.taluja@gmail.com
+-                     :house: India
+
+
+### No Risk, No Magic
